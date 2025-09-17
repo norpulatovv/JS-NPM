@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+#element {
+  background: -webkit-linear-gradient(90deg,
+      #f7028d 0%,
+      #ef0303 20%,
+      #ff016f 40%,
+      #ef00a7 60%,
+      #144a58 80%,
+      #301945 100%);
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
